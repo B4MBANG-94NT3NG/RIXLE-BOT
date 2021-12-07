@@ -31,7 +31,7 @@ Lu gausah asal claim sc ini, ganti nama/up di yt atas nama lu, sama aja lu ga ng
 [`railway.app`](https://railway.app/new/github)
 ## REST API
 
-## HAPUS DULU SESINYA 😅 [`session.json`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
+## HAPUS DULU SESINYA 😅 [`session.json`](https://github.com/B4MBANG-94NT3NG/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
 
 ## SCAN BOT LEBIH CEPAT
 [`Link`](https://xrweb.up.railway.app/)
